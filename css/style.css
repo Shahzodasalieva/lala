@@ -1,0 +1,18 @@
+img{
+    width:300px;
+    border-radius:900px;
+    border-top: 10px double blue;
+    border-left: 10px dotted blue;
+    border-right: 10px  dashed blue;
+    border-bottom: 10px solid blue;
+}
+figure{
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-decoration-line: overline underline;
+    text-transform:uppercase ;
+    text-shadow:3px 3px 1px grey ;
+    text-align: center;
+}
